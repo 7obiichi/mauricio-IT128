@@ -1,3 +1,3 @@
-Name: Your Name
-Section: Your Section
-Program: Your Program
+Name: Lord Aaron Isaac D. Mauricio
+Section: ITS152L_FOPM01
+Program: IT-O
